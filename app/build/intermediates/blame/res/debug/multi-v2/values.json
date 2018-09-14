@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Admin\\Dropbox\\Sipho Cetywayo-12819\\Advanced Mobile Development\\Task 6\\contact-manager1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\Dropbox\\Sipho Cetywayo-12819\\Advanced Mobile Development\\Task 6\\contact-manager1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,114,177,234,288,334,423,484,543,604,643,698,752,826,889",
+                        "endColumns": "55,61,55,52,44,87,59,57,59,37,53,52,72,61,58",
+                        "endOffsets": "108,171,228,282,328,417,478,537,598,637,692,746,820,883,943"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,111,173,229,282,327,415,475,533,593,631,685,738,811,873",
+                        "endColumns": "55,61,55,52,44,87,59,57,59,37,53,52,72,61,58",
+                        "endOffsets": "106,168,224,277,322,410,470,528,588,626,680,733,806,868,927"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Sep 14 00:35:38 CAT 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Admin\\AndroidStudioProjects\\contact-manager1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
